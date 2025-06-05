@@ -1,0 +1,2460 @@
+{2025.04.12_16.44.55}fip_spl.bin is copied successfully
+{2025.04.12_16.44.55}fw_payload_uboot.bin is copied successfully
+{2025.04.12_16.44.55}partition_spinand.xml is copied successfully
+{2025.04.12_16.44.55}ramboot.itb is copied successfully
+{2025.04.12_16.44.55}upgrade.zip is copied successfully
+{2025.04.12_16.44.55}fip.bin is copied successfully
+{2025.04.12_16.44.55}boot.spinand is copied successfully
+{2025.04.12_16.44.55}logo.jpg failed to copy, Becasue No such file or directory
+{2025.04.12_16.44.55}rootfs.spinand is copied successfully
+{2025.04.12_16.44.55}system.spinand is copied successfully
+{2025.04.12_16.44.55}cfg.spinand is copied successfully
+{2025.04.12_16.44.55}partition_spinand.xml failed to copy, Because Unknown error
+{2025.04.12_16.44.55}
+
+Program: C:/Users/unimage/Desktop/tool/CviBurn_v2.0_20240710/CviBurn_v2.0_release/config/usb_dl.exe   Arguments: (-c, cv181x, -s, dual_os, -i, C:/Users/unimage/Desktop/ËãÄÜÉÕÂ¼°ü/chen/2025.4124/downloadImageFile)
+
+
+{2025.04.12_16.44.55}[INFO] Using libusb v1.0.26.11724[INFO] usb_dl: Jul 10 2024
+{2025.04.12_16.44.55}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.44.56}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.44.57}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.44.57}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.44.57}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.44.58}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.44.58}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.44.58}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.44.58}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.44.58}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.44.58}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.44.58}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.44.58}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.44.58}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.44.58}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.44.59}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.44.59}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.44.59}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.44.59}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.44.59}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.44.59}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.44.59}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.44.59}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.44.59}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.00}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.01}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.02}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.02}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.02}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.02}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.02}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.02}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.02}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.02}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.02}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.02}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.02}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.02}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.02}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.12_16.45.02}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.02}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.12_16.45.07}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.07}[INFO] USB download start...
+{2025.04.12_16.45.07}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.07}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.07}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.07}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.07}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.07}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.07}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.07}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.07}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.08}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.09}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.10}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.11}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.12}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.14}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.15}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.16}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.16}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.17}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.17}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.17}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.17}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.17}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.17}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.17}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.17}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.17}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.18}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.18}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.18}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.18}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.18}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.18}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.18}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.18}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.18}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.18}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.19}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.20}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.21}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.21}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.12_16.45.21}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.21}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] set MGN1 flag
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] break
+{2025.04.12_16.45.26}[INFO] Connecting to ROM 2nd stage...
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.26}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.27}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.28}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.28}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.29}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.30}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.31}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.31}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.31}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.31}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.31}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.31}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.32}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.33}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.35}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.36}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.38}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.39}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.40}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.42}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.43}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.44}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.46}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.47}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.48}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.50}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.51}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.51}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.51}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.51}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.51}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.52}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.52}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.52}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.52}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.52}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.52}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.52}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.52}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.52}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.52}[INFO] Waiting for USB device connection: ---    
+{2025.04.12_16.45.53}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.53}[INFO] Waiting for USB device connection:  \    
+{2025.04.12_16.45.53}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.53}[INFO] Waiting for USB device connection:  |     
+{2025.04.12_16.45.53}[INFO] Waiting for USB device connection:  /    
+{2025.04.12_16.45.53}[INFO] Waiting for USB device connection:  /    

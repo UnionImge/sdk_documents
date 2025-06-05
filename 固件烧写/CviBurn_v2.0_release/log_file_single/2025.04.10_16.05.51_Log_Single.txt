@@ -1,0 +1,471 @@
+{2025.04.10_16.06.13}fip.bin is copied successfully
+{2025.04.10_16.06.13}fw_jump.bin is copied successfully
+{2025.04.10_16.06.13}fw_payload_uboot.bin is copied successfully
+{2025.04.10_16.06.13}Image is copied successfully
+{2025.04.10_16.06.13}partition_spinand.xml is copied successfully
+{2025.04.10_16.06.13}ramboot.itb is copied successfully
+{2025.04.10_16.06.13}upgrade.zip is copied successfully
+{2025.04.10_16.06.13}fip_spl.bin is copied successfully
+{2025.04.10_16.06.13}yoc.bin is copied successfully
+{2025.04.10_16.06.13}boot.spinand is copied successfully
+{2025.04.10_16.06.13}logo.jpg failed to copy, Becasue No such file or directory
+{2025.04.10_16.06.13}rootfs.spinand is copied successfully
+{2025.04.10_16.06.13}system.spinand is copied successfully
+{2025.04.10_16.06.13}cfg.spinand is copied successfully
+{2025.04.10_16.06.13}data.spinand is copied successfully
+{2025.04.10_16.06.13}partition_spinand.xml failed to copy, Because Unknown error
+{2025.04.10_16.06.14}
+
+Program: C:/Users/unimage/Desktop/tool/CviBurn_v2.0_20240710/CviBurn_v2.0_release/config/usb_dl.exe   Arguments: (-c, cv181x, -s, dual_os, -i, C:/Users/unimage/Desktop/算能烧录包/chen/3/downloadImageFile)
+
+
+{2025.04.10_16.06.14}[INFO] Using libusb v1.0.26.11724[INFO] usb_dl: Jul 10 2024
+{2025.04.10_16.06.14}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.06.14}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.06.19}[ERR] usb write failed: LIBUSB_ERROR_PIPE(-9)
+{2025.04.10_16.06.19}[ERR] send file failed
+{2025.04.10_16.06.19}[ERR] USB download failed
+{2025.04.10_16.06.26}boot.spinand deleted!
+{2025.04.10_16.06.26}cfg.spinand deleted!
+{2025.04.10_16.06.26}data.spinand deleted!
+{2025.04.10_16.06.26}fip.bin deleted!
+{2025.04.10_16.06.26}fip_spl.bin deleted!
+{2025.04.10_16.06.26}fw_jump.bin deleted!
+{2025.04.10_16.06.26}fw_payload_uboot.bin deleted!
+{2025.04.10_16.06.26}Image deleted!
+{2025.04.10_16.06.26}partition_spinand.xml deleted!
+{2025.04.10_16.06.26}ramboot.itb deleted!
+{2025.04.10_16.06.26}rootfs.spinand deleted!
+{2025.04.10_16.06.26}system.spinand deleted!
+{2025.04.10_16.06.26}upgrade.zip deleted!
+{2025.04.10_16.06.26}yoc.bin deleted!
+{2025.04.10_16.06.26}fip.bin is copied successfully
+{2025.04.10_16.06.26}fw_jump.bin is copied successfully
+{2025.04.10_16.06.26}fw_payload_uboot.bin is copied successfully
+{2025.04.10_16.06.26}Image is copied successfully
+{2025.04.10_16.06.26}partition_spinand.xml is copied successfully
+{2025.04.10_16.06.26}ramboot.itb is copied successfully
+{2025.04.10_16.06.26}upgrade.zip is copied successfully
+{2025.04.10_16.06.26}fip_spl.bin is copied successfully
+{2025.04.10_16.06.26}yoc.bin is copied successfully
+{2025.04.10_16.06.26}boot.spinand is copied successfully
+{2025.04.10_16.06.26}logo.jpg failed to copy, Becasue No such file or directory
+{2025.04.10_16.06.26}rootfs.spinand is copied successfully
+{2025.04.10_16.06.26}system.spinand is copied successfully
+{2025.04.10_16.06.26}cfg.spinand is copied successfully
+{2025.04.10_16.06.26}data.spinand is copied successfully
+{2025.04.10_16.06.26}partition_spinand.xml failed to copy, Because Unknown error
+{2025.04.10_16.06.26}
+
+Program: C:/Users/unimage/Desktop/tool/CviBurn_v2.0_20240710/CviBurn_v2.0_release/config/usb_dl.exe   Arguments: (-c, cv181x, -s, dual_os, -i, C:/Users/unimage/Desktop/算能烧录包/chen/3/downloadImageFile)
+
+
+{2025.04.10_16.06.26}[INFO] Using libusb v1.0.26.11724[INFO] usb_dl: Jul 10 2024
+{2025.04.10_16.06.26}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.06.26}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.06.29}[ERR] usb write failed: LIBUSB_ERROR_IO(-1)
+{2025.04.10_16.06.29}[ERR] send file failed
+{2025.04.10_16.06.29}[ERR] USB download failed
+{2025.04.10_16.06.43}boot.spinand deleted!
+{2025.04.10_16.06.43}cfg.spinand deleted!
+{2025.04.10_16.06.43}data.spinand deleted!
+{2025.04.10_16.06.43}fip.bin deleted!
+{2025.04.10_16.06.43}fip_spl.bin deleted!
+{2025.04.10_16.06.43}fw_jump.bin deleted!
+{2025.04.10_16.06.43}fw_payload_uboot.bin deleted!
+{2025.04.10_16.06.43}Image deleted!
+{2025.04.10_16.06.43}partition_spinand.xml deleted!
+{2025.04.10_16.06.43}ramboot.itb deleted!
+{2025.04.10_16.06.43}rootfs.spinand deleted!
+{2025.04.10_16.06.43}system.spinand deleted!
+{2025.04.10_16.06.43}upgrade.zip deleted!
+{2025.04.10_16.06.43}yoc.bin deleted!
+{2025.04.10_16.06.43}fip.bin is copied successfully
+{2025.04.10_16.06.43}fw_jump.bin is copied successfully
+{2025.04.10_16.06.43}fw_payload_uboot.bin is copied successfully
+{2025.04.10_16.06.43}Image is copied successfully
+{2025.04.10_16.06.43}partition_spinand.xml is copied successfully
+{2025.04.10_16.06.43}ramboot.itb is copied successfully
+{2025.04.10_16.06.43}upgrade.zip is copied successfully
+{2025.04.10_16.06.43}fip_spl.bin is copied successfully
+{2025.04.10_16.06.43}yoc.bin is copied successfully
+{2025.04.10_16.06.43}boot.spinand is copied successfully
+{2025.04.10_16.06.43}logo.jpg failed to copy, Becasue No such file or directory
+{2025.04.10_16.06.43}rootfs.spinand is copied successfully
+{2025.04.10_16.06.43}system.spinand is copied successfully
+{2025.04.10_16.06.43}cfg.spinand is copied successfully
+{2025.04.10_16.06.43}data.spinand is copied successfully
+{2025.04.10_16.06.43}partition_spinand.xml failed to copy, Because Unknown error
+{2025.04.10_16.06.43}
+
+Program: C:/Users/unimage/Desktop/tool/CviBurn_v2.0_20240710/CviBurn_v2.0_release/config/usb_dl.exe   Arguments: (-c, cv181x, -s, dual_os, -i, C:/Users/unimage/Desktop/算能烧录包/chen/3/downloadImageFile)
+
+
+{2025.04.10_16.06.43}[INFO] Using libusb v1.0.26.11724[INFO] usb_dl: Jul 10 2024
+{2025.04.10_16.06.43}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.06.43}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.06.43}[ERR] usb write failed: LIBUSB_ERROR_PIPE(-9)
+{2025.04.10_16.06.43}[ERR] send file failed
+{2025.04.10_16.06.43}[ERR] USB download failed
+{2025.04.10_16.06.55}boot.spinand deleted!
+{2025.04.10_16.06.55}cfg.spinand deleted!
+{2025.04.10_16.06.55}data.spinand deleted!
+{2025.04.10_16.06.55}fip.bin deleted!
+{2025.04.10_16.06.55}fip_spl.bin deleted!
+{2025.04.10_16.06.55}fw_jump.bin deleted!
+{2025.04.10_16.06.55}fw_payload_uboot.bin deleted!
+{2025.04.10_16.06.55}Image deleted!
+{2025.04.10_16.06.55}partition_spinand.xml deleted!
+{2025.04.10_16.06.55}ramboot.itb deleted!
+{2025.04.10_16.06.55}rootfs.spinand deleted!
+{2025.04.10_16.06.55}system.spinand deleted!
+{2025.04.10_16.06.55}upgrade.zip deleted!
+{2025.04.10_16.06.55}yoc.bin deleted!
+{2025.04.10_16.06.55}fip.bin is copied successfully
+{2025.04.10_16.06.55}fw_jump.bin is copied successfully
+{2025.04.10_16.06.55}fw_payload_uboot.bin is copied successfully
+{2025.04.10_16.06.55}Image is copied successfully
+{2025.04.10_16.06.55}partition_spinand.xml is copied successfully
+{2025.04.10_16.06.55}ramboot.itb is copied successfully
+{2025.04.10_16.06.55}upgrade.zip is copied successfully
+{2025.04.10_16.06.55}fip_spl.bin is copied successfully
+{2025.04.10_16.06.55}yoc.bin is copied successfully
+{2025.04.10_16.06.55}boot.spinand is copied successfully
+{2025.04.10_16.06.55}logo.jpg failed to copy, Becasue No such file or directory
+{2025.04.10_16.06.55}rootfs.spinand is copied successfully
+{2025.04.10_16.06.55}system.spinand is copied successfully
+{2025.04.10_16.06.55}cfg.spinand is copied successfully
+{2025.04.10_16.06.55}data.spinand is copied successfully
+{2025.04.10_16.06.55}partition_spinand.xml failed to copy, Because Unknown error
+{2025.04.10_16.06.55}
+
+Program: C:/Users/unimage/Desktop/tool/CviBurn_v2.0_20240710/CviBurn_v2.0_release/config/usb_dl.exe   Arguments: (-c, cv181x, -s, dual_os, -i, C:/Users/unimage/Desktop/算能烧录包/chen/3/downloadImageFile)
+
+
+{2025.04.10_16.06.55}[INFO] Using libusb v1.0.26.11724[INFO] usb_dl: Jul 10 2024
+{2025.04.10_16.06.55}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.06.55}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.07.00}[ERR] usb write failed: LIBUSB_ERROR_TIMEOUT(-7)
+{2025.04.10_16.07.00}[ERR] send file failed
+{2025.04.10_16.07.00}[ERR] USB download failed
+{2025.04.10_16.07.08}boot.spinand deleted!
+{2025.04.10_16.07.08}cfg.spinand deleted!
+{2025.04.10_16.07.08}data.spinand deleted!
+{2025.04.10_16.07.08}fip.bin deleted!
+{2025.04.10_16.07.08}fip_spl.bin deleted!
+{2025.04.10_16.07.08}fw_jump.bin deleted!
+{2025.04.10_16.07.08}fw_payload_uboot.bin deleted!
+{2025.04.10_16.07.08}Image deleted!
+{2025.04.10_16.07.08}partition_spinand.xml deleted!
+{2025.04.10_16.07.08}ramboot.itb deleted!
+{2025.04.10_16.07.08}rootfs.spinand deleted!
+{2025.04.10_16.07.08}system.spinand deleted!
+{2025.04.10_16.07.08}upgrade.zip deleted!
+{2025.04.10_16.07.08}yoc.bin deleted!
+{2025.04.10_16.07.08}fip.bin is copied successfully
+{2025.04.10_16.07.08}fw_jump.bin is copied successfully
+{2025.04.10_16.07.08}fw_payload_uboot.bin is copied successfully
+{2025.04.10_16.07.08}Image is copied successfully
+{2025.04.10_16.07.08}partition_spinand.xml is copied successfully
+{2025.04.10_16.07.08}ramboot.itb is copied successfully
+{2025.04.10_16.07.08}upgrade.zip is copied successfully
+{2025.04.10_16.07.08}fip_spl.bin is copied successfully
+{2025.04.10_16.07.08}yoc.bin is copied successfully
+{2025.04.10_16.07.08}boot.spinand is copied successfully
+{2025.04.10_16.07.08}logo.jpg failed to copy, Becasue No such file or directory
+{2025.04.10_16.07.08}rootfs.spinand is copied successfully
+{2025.04.10_16.07.08}system.spinand is copied successfully
+{2025.04.10_16.07.08}cfg.spinand is copied successfully
+{2025.04.10_16.07.08}data.spinand is copied successfully
+{2025.04.10_16.07.08}partition_spinand.xml failed to copy, Because Unknown error
+{2025.04.10_16.07.08}
+
+Program: C:/Users/unimage/Desktop/tool/CviBurn_v2.0_20240710/CviBurn_v2.0_release/config/usb_dl.exe   Arguments: (-c, cv181x, -s, dual_os, -i, C:/Users/unimage/Desktop/算能烧录包/chen/3/downloadImageFile)
+
+
+{2025.04.10_16.07.08}[INFO] Using libusb v1.0.26.11724[INFO] usb_dl: Jul 10 2024
+{2025.04.10_16.07.08}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.07.08}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.07.10}[ERR] usb write failed: LIBUSB_ERROR_IO(-1)
+{2025.04.10_16.07.10}[ERR] send file failed
+{2025.04.10_16.07.10}[ERR] USB download failed
+{2025.04.10_16.07.16}boot.spinand deleted!
+{2025.04.10_16.07.16}cfg.spinand deleted!
+{2025.04.10_16.07.16}data.spinand deleted!
+{2025.04.10_16.07.16}fip.bin deleted!
+{2025.04.10_16.07.16}fip_spl.bin deleted!
+{2025.04.10_16.07.16}fw_jump.bin deleted!
+{2025.04.10_16.07.16}fw_payload_uboot.bin deleted!
+{2025.04.10_16.07.16}Image deleted!
+{2025.04.10_16.07.16}partition_spinand.xml deleted!
+{2025.04.10_16.07.16}ramboot.itb deleted!
+{2025.04.10_16.07.16}rootfs.spinand deleted!
+{2025.04.10_16.07.16}system.spinand deleted!
+{2025.04.10_16.07.16}upgrade.zip deleted!
+{2025.04.10_16.07.16}yoc.bin deleted!
+{2025.04.10_16.07.16}fip.bin is copied successfully
+{2025.04.10_16.07.16}fw_jump.bin is copied successfully
+{2025.04.10_16.07.16}fw_payload_uboot.bin is copied successfully
+{2025.04.10_16.07.16}Image is copied successfully
+{2025.04.10_16.07.16}partition_spinand.xml is copied successfully
+{2025.04.10_16.07.16}ramboot.itb is copied successfully
+{2025.04.10_16.07.16}upgrade.zip is copied successfully
+{2025.04.10_16.07.16}fip_spl.bin is copied successfully
+{2025.04.10_16.07.16}yoc.bin is copied successfully
+{2025.04.10_16.07.16}boot.spinand is copied successfully
+{2025.04.10_16.07.16}logo.jpg failed to copy, Becasue No such file or directory
+{2025.04.10_16.07.16}rootfs.spinand is copied successfully
+{2025.04.10_16.07.16}system.spinand is copied successfully
+{2025.04.10_16.07.16}cfg.spinand is copied successfully
+{2025.04.10_16.07.16}data.spinand is copied successfully
+{2025.04.10_16.07.16}partition_spinand.xml failed to copy, Because Unknown error
+{2025.04.10_16.07.16}
+
+Program: C:/Users/unimage/Desktop/tool/CviBurn_v2.0_20240710/CviBurn_v2.0_release/config/usb_dl.exe   Arguments: (-c, cv181x, -s, dual_os, -i, C:/Users/unimage/Desktop/算能烧录包/chen/3/downloadImageFile)
+
+
+{2025.04.10_16.07.16}[INFO] Using libusb v1.0.26.11724[INFO] usb_dl: Jul 10 2024
+{2025.04.10_16.07.16}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.07.16}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.07.26}[ERR] usb write failed: LIBUSB_ERROR_TIMEOUT(-7)
+{2025.04.10_16.07.26}[ERR] send file failed
+{2025.04.10_16.07.26}[ERR] USB download failed
+{2025.04.10_16.07.51}boot.spinand deleted!
+{2025.04.10_16.07.51}cfg.spinand deleted!
+{2025.04.10_16.07.51}data.spinand deleted!
+{2025.04.10_16.07.51}fip.bin deleted!
+{2025.04.10_16.07.51}fip_spl.bin deleted!
+{2025.04.10_16.07.51}fw_jump.bin deleted!
+{2025.04.10_16.07.51}fw_payload_uboot.bin deleted!
+{2025.04.10_16.07.51}Image deleted!
+{2025.04.10_16.07.51}partition_spinand.xml deleted!
+{2025.04.10_16.07.51}ramboot.itb deleted!
+{2025.04.10_16.07.51}rootfs.spinand deleted!
+{2025.04.10_16.07.51}system.spinand deleted!
+{2025.04.10_16.07.51}upgrade.zip deleted!
+{2025.04.10_16.07.51}yoc.bin deleted!
+{2025.04.10_16.07.51}fip.bin is copied successfully
+{2025.04.10_16.07.51}fw_jump.bin is copied successfully
+{2025.04.10_16.07.51}fw_payload_uboot.bin is copied successfully
+{2025.04.10_16.07.51}Image is copied successfully
+{2025.04.10_16.07.51}partition_spinand.xml is copied successfully
+{2025.04.10_16.07.51}ramboot.itb is copied successfully
+{2025.04.10_16.07.51}upgrade.zip is copied successfully
+{2025.04.10_16.07.51}fip_spl.bin is copied successfully
+{2025.04.10_16.07.51}yoc.bin is copied successfully
+{2025.04.10_16.07.51}boot.spinand is copied successfully
+{2025.04.10_16.07.51}logo.jpg failed to copy, Becasue No such file or directory
+{2025.04.10_16.07.51}rootfs.spinand is copied successfully
+{2025.04.10_16.07.51}system.spinand is copied successfully
+{2025.04.10_16.07.51}cfg.spinand is copied successfully
+{2025.04.10_16.07.51}data.spinand is copied successfully
+{2025.04.10_16.07.51}partition_spinand.xml failed to copy, Because Unknown error
+{2025.04.10_16.07.51}
+
+Program: C:/Users/unimage/Desktop/tool/CviBurn_v2.0_20240710/CviBurn_v2.0_release/config/usb_dl.exe   Arguments: (-c, cv181x, -s, dual_os, -i, C:/Users/unimage/Desktop/算能烧录包/chen/2/downloadImageFile)
+
+
+{2025.04.10_16.07.51}[INFO] Using libusb v1.0.26.11724[INFO] usb_dl: Jul 10 2024
+{2025.04.10_16.07.51}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.07.51}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.07.54}[ERR] usb write failed: LIBUSB_ERROR_PIPE(-9)
+{2025.04.10_16.07.54}[ERR] send file failed
+{2025.04.10_16.07.54}[ERR] USB download failed
+{2025.04.10_16.08.01}boot.spinand deleted!
+{2025.04.10_16.08.01}cfg.spinand deleted!
+{2025.04.10_16.08.01}data.spinand deleted!
+{2025.04.10_16.08.01}fip.bin deleted!
+{2025.04.10_16.08.01}fip_spl.bin deleted!
+{2025.04.10_16.08.01}fw_jump.bin deleted!
+{2025.04.10_16.08.01}fw_payload_uboot.bin deleted!
+{2025.04.10_16.08.01}Image deleted!
+{2025.04.10_16.08.01}partition_spinand.xml deleted!
+{2025.04.10_16.08.01}ramboot.itb deleted!
+{2025.04.10_16.08.01}rootfs.spinand deleted!
+{2025.04.10_16.08.01}system.spinand deleted!
+{2025.04.10_16.08.01}upgrade.zip deleted!
+{2025.04.10_16.08.01}yoc.bin deleted!
+{2025.04.10_16.08.01}fip.bin is copied successfully
+{2025.04.10_16.08.01}fw_jump.bin is copied successfully
+{2025.04.10_16.08.01}fw_payload_uboot.bin is copied successfully
+{2025.04.10_16.08.01}Image is copied successfully
+{2025.04.10_16.08.01}partition_spinand.xml is copied successfully
+{2025.04.10_16.08.01}ramboot.itb is copied successfully
+{2025.04.10_16.08.01}upgrade.zip is copied successfully
+{2025.04.10_16.08.01}fip_spl.bin is copied successfully
+{2025.04.10_16.08.01}yoc.bin is copied successfully
+{2025.04.10_16.08.01}boot.spinand is copied successfully
+{2025.04.10_16.08.01}logo.jpg failed to copy, Becasue No such file or directory
+{2025.04.10_16.08.01}rootfs.spinand is copied successfully
+{2025.04.10_16.08.01}system.spinand is copied successfully
+{2025.04.10_16.08.01}cfg.spinand is copied successfully
+{2025.04.10_16.08.01}data.spinand is copied successfully
+{2025.04.10_16.08.01}partition_spinand.xml failed to copy, Because Unknown error
+{2025.04.10_16.08.01}
+
+Program: C:/Users/unimage/Desktop/tool/CviBurn_v2.0_20240710/CviBurn_v2.0_release/config/usb_dl.exe   Arguments: (-c, cv181x, -s, dual_os, -i, C:/Users/unimage/Desktop/算能烧录包/chen/2/downloadImageFile)
+
+
+{2025.04.10_16.08.01}[INFO] Using libusb v1.0.26.11724[INFO] usb_dl: Jul 10 2024
+{2025.04.10_16.08.01}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.01}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.08.04}[ERR] ACK_CRC_ERROR cmp_crc: 0, ret_crc: 6c00
+{2025.04.10_16.08.04}[INFO] USB download start...
+{2025.04.10_16.08.04}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.05}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.06}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.07}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.08.07}[INFO] set MGN1 flag
+{2025.04.10_16.08.07}[INFO] break
+{2025.04.10_16.08.07}[INFO] Connecting to ROM 2nd stage...
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.07}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.08.07}[INFO] fip_tx_offset: 0, fip_tx_size: 4096
+{2025.04.10_16.08.07}[INFO] set MGN1 flag
+{2025.04.10_16.08.07}[INFO] break
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.07}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.08.07}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.07}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.08.07}[INFO] fip_tx_offset: 4096, fip_tx_size: 41984
+{2025.04.10_16.08.08}[INFO] set MGN1 flag
+{2025.04.10_16.08.08}[INFO] break
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.08}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.08.08}[INFO] fip_tx_offset: 46080, fip_tx_size: 4096
+{2025.04.10_16.08.08}[INFO] set MGN1 flag
+{2025.04.10_16.08.08}[INFO] break
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.08}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.08.08}[INFO] fip_tx_offset: 50176, fip_tx_size: 108032
+{2025.04.10_16.08.08}[INFO] set MGN1 flag
+{2025.04.10_16.08.08}[INFO] break
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.08}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.08}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.08.09}[INFO] fip_tx_offset: 158208, fip_tx_size: 512
+{2025.04.10_16.08.09}[INFO] set MGN1 flag
+{2025.04.10_16.08.09}[INFO] break
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.09}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.10_16.08.09}[INFO] fip_tx_offset: 158208, fip_tx_size: 395264
+{2025.04.10_16.08.09}[INFO] set MGN1 flag
+{2025.04.10_16.08.09}[INFO] break
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.09}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.10}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection:  |     
+{2025.04.10_16.08.11}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.13}[INFO] Waiting for USB device connection:  /    
+{2025.04.10_16.08.14}[INFO] Waiting for USB device connection: ---    
+{2025.04.10_16.08.28}[INFO] Waiting for USB device connection: ---    [INFO] Waiting for USB device connection:  \    [INFO] Waiting for USB device connection:  \    [INFO] Waiting for USB device connection:  |     [INFO] Waiting for USB device connection:  |     [INFO] Waiting for USB device connection:  /    [INFO] Waiting for USB device connection:  /    [INFO] Waiting for USB device connection: ---    [INFO] Waiting for USB device connection: ---    [INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.29}[INFO] Waiting for USB device connection:  \    
+{2025.04.10_16.08.30}[INFO] Waiting for USB device connection:  |     

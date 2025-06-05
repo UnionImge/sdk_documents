@@ -1,0 +1,356 @@
+{2025.04.18_21.37.50}boot.spinand deleted!
+{2025.04.18_21.37.50}cfg.spinand deleted!
+{2025.04.18_21.37.50}fip.bin deleted!
+{2025.04.18_21.37.50}fip_spl.bin deleted!
+{2025.04.18_21.37.50}fw_payload_uboot.bin deleted!
+{2025.04.18_21.37.50}partition_spinand.xml deleted!
+{2025.04.18_21.37.50}ramboot.itb deleted!
+{2025.04.18_21.37.50}rootfs.spinand deleted!
+{2025.04.18_21.37.50}system.spinand deleted!
+{2025.04.18_21.37.50}upgrade.zip deleted!
+{2025.04.18_21.37.50}fip_spl.bin is copied successfully
+{2025.04.18_21.37.50}fw_payload_uboot.bin is copied successfully
+{2025.04.18_21.37.50}partition_spinand.xml is copied successfully
+{2025.04.18_21.37.50}ramboot.itb is copied successfully
+{2025.04.18_21.37.51}upgrade.zip is copied successfully
+{2025.04.18_21.37.51}fip.bin is copied successfully
+{2025.04.18_21.37.51}boot.spinand is copied successfully
+{2025.04.18_21.37.51}logo.jpg failed to copy, Becasue No such file or directory
+{2025.04.18_21.37.51}rootfs.spinand is copied successfully
+{2025.04.18_21.37.51}system.spinand is copied successfully
+{2025.04.18_21.37.51}cfg.spinand is copied successfully
+{2025.04.18_21.37.51}partition_spinand.xml failed to copy, Because Unknown error
+{2025.04.18_21.37.51}
+
+Program: C:/Users/unimage/Desktop/tool/CviBurn_v2.0_20240710/CviBurn_v2.0_release/config/usb_dl.exe   Arguments: (-c, cv181x, -s, dual_os, -i, C:/Users/unimage/Desktop/cv181x/cv1812/固件烧写包/13uvc1080p60fps_h264/downloadImageFile)
+
+
+{2025.04.18_21.37.51}[INFO] Using libusb v1.0.26.11724[INFO] usb_dl: Jul 10 2024
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.51}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  \    [INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.52}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.53}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.54}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.55}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.56}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.57}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.58}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.18_21.37.58}[INFO] USB download start...
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.58}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.59}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.18_21.37.59}[INFO] set MGN1 flag
+{2025.04.18_21.37.59}[INFO] break
+{2025.04.18_21.37.59}[INFO] Connecting to ROM 2nd stage...
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.59}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.18_21.37.59}[INFO] fip_tx_offset: 4096, fip_tx_size: 33792
+{2025.04.18_21.37.59}[INFO] set MGN1 flag
+{2025.04.18_21.37.59}[INFO] break
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.37.59}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.18_21.37.59}[INFO] fip_tx_offset: 37888, fip_tx_size: 4096
+{2025.04.18_21.37.59}[INFO] set MGN1 flag
+{2025.04.18_21.37.59}[INFO] break
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.37.59}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.00}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.18_21.38.00}[INFO] fip_tx_offset: 41984, fip_tx_size: 8192
+{2025.04.18_21.38.00}[INFO] set MGN1 flag
+{2025.04.18_21.38.00}[INFO] break
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.00}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.18_21.38.00}[INFO] fip_tx_offset: 50176, fip_tx_size: 78336
+{2025.04.18_21.38.00}[INFO] set MGN1 flag
+{2025.04.18_21.38.00}[INFO] break
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.00}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.01}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.01}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.18_21.38.01}[INFO] fip_tx_offset: 128512, fip_tx_size: 115200
+{2025.04.18_21.38.01}[INFO] set MGN1 flag
+{2025.04.18_21.38.01}[INFO] break
+{2025.04.18_21.38.01}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.01}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.01}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.01}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.01}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.01}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.18_21.38.01}[INFO] fip_tx_offset: 243712, fip_tx_size: 512
+{2025.04.18_21.38.01}[INFO] set MGN1 flag
+{2025.04.18_21.38.01}[INFO] break
+{2025.04.18_21.38.01}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.01}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.01}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.01}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.01}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.01}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.18_21.38.01}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.01}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.18_21.38.01}[INFO] fip_tx_offset: 243712, fip_tx_size: 263680
+{2025.04.18_21.38.02}[INFO] set MGN1 flag
+{2025.04.18_21.38.02}[INFO] break
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.02}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.03}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.04}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.04}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.18_21.38.04}[INFO] xml file is partition_spinand.xml
+{2025.04.18_21.38.04}[INFO] xml storage type: spinand
+{2025.04.18_21.38.04}[ERR] unable to open C:/Users/unimage/Desktop/cv181x/cv1812/固件烧写包/13uvc1080p60fps_h264/downloadImageFile\logo.jpg
+{2025.04.18_21.38.04}[INFO] update total size: 19789466 byte
+{2025.04.18_21.38.04}[INFO] USB download start...
+{2025.04.18_21.38.04}[INFO] downloading file: C:/Users/unimage/Desktop/cv181x/cv1812/固件烧写包/13uvc1080p60fps_h264/downloadImageFile\fip.bin
+{2025.04.18_21.38.04}[INFO] send fip.bin finish
+{2025.04.18_21.38.04}[INFO] break
+{2025.04.18_21.38.04}[INFO] updated size: 507392/19789466(2%)
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection:  \    
+{2025.04.18_21.38.04}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.05}[INFO] Waiting for USB device connection:  |     
+{2025.04.18_21.38.05}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.05}[INFO] Waiting for USB device connection:  /    
+{2025.04.18_21.38.05}[INFO] Waiting for USB device connection: ---    
+{2025.04.18_21.38.05}[INFO] found usb device vid=0x3346 pid=0x1000
+{2025.04.18_21.38.05}[INFO] downloading file: C:/Users/unimage/Desktop/cv181x/cv1812/固件烧写包/13uvc1080p60fps_h264/downloadImageFile\boot.spinand
+{2025.04.18_21.38.05}[INFO] CVI_USB_PROGRAM
+{2025.04.18_21.38.06}[INFO] updated size: 3273948/19789466(16%)
+{2025.04.18_21.38.06}[INFO] downloading file: C:/Users/unimage/Desktop/cv181x/cv1812/固件烧写包/13uvc1080p60fps_h264/downloadImageFile\logo.jpg
+{2025.04.18_21.38.06}[WARN] unable to open C:/Users/unimage/Desktop/cv181x/cv1812/固件烧写包/13uvc1080p60fps_h264/downloadImageFile\logo.jpg
+{2025.04.18_21.38.06}[INFO] downloading file: C:/Users/unimage/Desktop/cv181x/cv1812/固件烧写包/13uvc1080p60fps_h264/downloadImageFile\rootfs.spinand
+{2025.04.18_21.38.06}[INFO] CVI_USB_PROGRAM
+{2025.04.18_21.38.09}[INFO] updated size: 12449052/19789466(62%)
+{2025.04.18_21.38.09}[INFO] downloading file: C:/Users/unimage/Desktop/cv181x/cv1812/固件烧写包/13uvc1080p60fps_h264/downloadImageFile\system.spinand
+{2025.04.18_21.38.09}[INFO] CVI_USB_PROGRAM
+{2025.04.18_21.38.11}[INFO] updated size: 17691996/19789466(89%)
+{2025.04.18_21.38.11}[INFO] downloading file: C:/Users/unimage/Desktop/cv181x/cv1812/固件烧写包/13uvc1080p60fps_h264/downloadImageFile\cfg.spinand
+{2025.04.18_21.38.11}[INFO] CVI_USB_PROGRAM
+{2025.04.18_21.38.11}[INFO] updated size: 19789212/19789466(99%)
+{2025.04.18_21.38.11}[INFO] USB download complete
